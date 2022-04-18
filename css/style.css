@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+img{
+    vertical-align: middle;
+    max-width: 100%;
+}
+/*common css end*/
+
+.headding{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+    background: #6f7783;
+    color: #ccd182;
+    padding: 10px 0px;
+    font-weight: 600;
+}
+.main_div{
+    width: 1200px;
+    margin: auto;
+    height: auto;
+}
+.manu{
+    margin: 5px 0px;
+    background: #e8613c;
+    padding: 5px 0px;
+    font-size: 16px;
+    color: #ffff;
+    font-weight: 500;
+}
+.banar{
+    text-align: center;
+}
+.banar img{
+    text-align: center;
+    height: 500px;
+}
+.c_main_div{
+    margin: 10px 0px;
+ 
+}
+.about{
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+    background: #643b6d;
+    color: aliceblue;
+}
+.main_div .div1{
+    width: 180px;
+    background: #e0dcac;
+    float: left;
+    padding: 10px;
+    margin: 0px 10px 0px 30px;
+}
+.main_div .div2{
+    width: 180px;
+    padding: 10px;
+    margin: 0px 5px;
+    background: #415efa;
+    float: left;
+}
+.main_div .div3{
+    width: 180px;
+    padding: 10px;
+    margin: 0px 5px;
+    background: #5b9171;
+    float: left;
+}
+.main_div .div4{
+    width: 180px;
+    padding: 10px;
+    margin: 0px 5px;
+    background: #70d2b7;
+    float: left;
+}
+.main_div .div5{
+    width: 180px;
+    padding: 10px;
+    margin: 0px 5px;
+    background: #467d94;
+    float: left;
+}
+.main_div .div6{
+    width: 180px;
+    padding: 10px;
+    margin: 0px 5px;
+    background: #592f47;
+    float: left;
+}
+
+.fotter span{
+    font-size: 30px;
+    font-weight: 600;
+    background: #a14463;
+    color: aliceblue;
+    margin: 300px 0px;
+    text-align: center;
+    display: block;
+    padding: 50px 0px;
+
+}
